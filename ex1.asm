@@ -9,7 +9,7 @@
 #         c[i] = b;
 #   }
 #}
-# declaraÃ§Ã£o de vetor
+# declaração de vetor
 .data
 c: .word 12, 0, 1, 2, 3, 2, 8, 10, 13, 27, 18, -10, 9, 15, -66, 0, 66, 99, 77, 88
 .text
@@ -42,6 +42,10 @@ loop:
     addi $s5, $s5, 1
     addi $s3, $s3, 4
     bne $s3, $s4, loop
+
+
+
+
 
 
 

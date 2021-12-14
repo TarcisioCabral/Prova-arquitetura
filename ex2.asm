@@ -1,5 +1,4 @@
-#2 - Escolha 3 comandos, um de cada tipo (R, I e J), e converta o c√≥digo para linguagem de m√°quina. Considere para todos os casos que o OPCODE = 32 e o OPULA(caso exista) = 8.
-
+#2 - Escolha 3 comandos, um de cada tipo (R, I e J), e converta o cÛdigo para linguagem de m·quina. Considere para todos os casos que o OPCODE = 32 e o OPULA(caso exista) = 8.
 #(R-type)
 add $t4, $s2, $t1
   OP  - RS  -  RT -  RD -SHAMT- FUNCT
